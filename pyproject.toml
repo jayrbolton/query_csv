@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "query_csv"
+version = "0.1.0"
+description = "Filter, query, and aggregate rows in a CSV document"
+authors = ["Jay R Bolton <jayrbolton@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.4.3"
+pytest-cov = "^2.9.0"
+coverage = "^5.1"
+mypy = "^0.780"
+flake8 = "^3.8.2"
+bandit = "^1.6.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

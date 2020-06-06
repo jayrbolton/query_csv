@@ -1,0 +1,15 @@
+MANIFEST
+*/.egg-info
+*.egg-info
+*.pyc
+*.pyco
+*.py~
+.tox
+.coverage
+coverage.xml
+nosetests.xml
+.cache
+__pycache__/
+/.mypy_cache/
+/dist/
+/htmlcov/
