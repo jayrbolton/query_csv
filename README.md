@@ -2,8 +2,8 @@
 
 # query_csv
 
+![](https://github.com/jayrbolton/query_csv/workflows/Run%20tests/badge.svg)
 [![codecov](https://codecov.io/gh/jayrbolton/query_csv/branch/master/graph/badge.svg)](https://codecov.io/gh/jayrbolton/query_csv)
-![](https://github.com/jayrbolton/query_csv/workflows/run-tests/badge.svg)
 
 Functions to search, filter, and aggregate a CSV document.
 
